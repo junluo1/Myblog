@@ -6,9 +6,11 @@ a blog built with semantic UI<br>
 index page laptop end<br>
 ![image](https://github.com/junluo1/Myblog/blob/master/Demo/index_page_laptop_end.png)
 
-index page mobile end<br>
-![image](https://github.com/junluo1/Myblog/blob/master/Demo/index_page_mobile_end.png =100x100)
 
+index page mobile end<br>
+<div  align="center">    
+  ![image](https://github.com/junluo1/Myblog/blob/master/Demo/index_page_mobile_end.png)
+</div>
 blog page toggle area mobile end<br>
 ![image](https://github.com/junluo1/Myblog/blob/master/Demo/index_page_mobile_end_toggle.png)
 
