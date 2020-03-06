@@ -8,9 +8,8 @@ index page laptop end<br>
 
 
 index page mobile end<br>
-<div  align="center">    
-  ![image](https://github.com/junluo1/Myblog/blob/master/Demo/index_page_mobile_end.png)
-</div>
+<img src="https://github.com/junluo1/Myblog/blob/master/Demo/index_page_mobile_end.png" width = "100" height = "180" alt="index page mobile end" align=center />
+
 blog page toggle area mobile end<br>
 ![image](https://github.com/junluo1/Myblog/blob/master/Demo/index_page_mobile_end_toggle.png)
 
