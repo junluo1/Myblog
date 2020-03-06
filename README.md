@@ -7,7 +7,7 @@ index page laptop end<br>
 ![image](https://github.com/junluo1/Myblog/blob/master/Demo/index_page_laptop_end.png)
 
 index page mobile end<br>
-![image](https://github.com/junluo1/Myblog/blob/master/Demo/index_page_mobile_end.png)
+![image](https://github.com/junluo1/Myblog/blob/master/Demo/index_page_mobile_end.png =100)
 
 blog page toggle area mobile end<br>
 ![image](https://github.com/junluo1/Myblog/blob/master/Demo/index_page_mobile_end_toggle.png)
