@@ -3,23 +3,23 @@ a blog built with semantic UI<br>
 
 
 
-<p>index page laptop end</p>
+index page laptop end<br><br>
 ![image](https://github.com/junluo1/Myblog/blob/master/Demo/index_page_laptop_end.png)
 
-
-<p>index page mobile end</p>
+<br>
+<p>index page mobile end</p><br>
 <img src="https://github.com/junluo1/Myblog/blob/master/Demo/index_page_mobile_end.png" width = "380" alt="index page mobile end" align="center"/>
-
-<p>blog page toggle area mobile end</p>
+<br>
+<p>blog page toggle area mobile end</p><br>
 <img src="https://github.com/junluo1/Myblog/blob/master/Demo/index_page_mobile_end_toggle.png" width = "380" alt="index page mobile end" align="center"/>
 
-<p>blog page laptop end</p>
+<br>blog page laptop end<br>
 ![image](https://github.com/junluo1/Myblog/blob/master/Demo/blog_page_laptop_end.png)
 
-<p>blog page comment and reward area laptop end</p>
+<br>blog page comment and reward area laptop end<br>
 ![image](https://github.com/junluo1/Myblog/blob/master/Demo/blog_page_comment_reward_deaktop_end.png)
 
-<p>blog page comment and reward area mobile end</p>
+<br>blog page comment and reward area mobile end<br>
 <img src="https://github.com/junluo1/Myblog/blob/master/Demo/blog_page_comment_reward_mobile_end.png" width = "380" alt="index page mobile end" align="center"/>
 
 
